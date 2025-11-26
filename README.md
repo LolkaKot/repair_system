@@ -1,9 +1,9 @@
 # Repair System - Система учета заявок на ремонт оборудования
 
-![Python(https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
-![Flet(https://img.shields.io/badge/Flet-0.1.0+-green.svg)](https://flet.dev)
-![MySQL(https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com)
-![SQLite(https://img.shields.io/badge/SQLite-3.0+-lightgrey.svg)](https://www.sqlite.org)
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org)
+[![Flet](https://img.shields.io/badge/Flet-0.1.0+-green.svg)](https://flet.dev)
+[![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com)
+[![SQLite](https://img.shields.io/badge/SQLite-3.0+-lightgrey.svg)](https://www.sqlite.org)
 
 ## 📋 Оглавление
 
