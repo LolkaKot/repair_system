@@ -283,8 +283,6 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 ```
 
-## 🔧 Распространенные проблемы
-
 ## 🐛 Распространенные проблемы
 
 ### 🔧 Проблемы с базой данных
